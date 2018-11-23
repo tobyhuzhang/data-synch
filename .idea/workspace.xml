@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2656ab4-c5cb-4461-a815-eca8ff6d82b5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/dao/SendInterfaceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/mapper/SendInterfaceMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/modle/TemperatureRecordDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/modle/TspCompleteConditionDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/modle/TspVehicleConditionDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/modle/TspVehicleEventDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/modle/VehicleDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapping/SendInterfaceMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/qjm/data/synch/online/OnlineSynch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/qjm/data/synch/online/OnlineSynch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hbase-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hbase-site.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SimpleCanalClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleCanalClient.java" afterDir="false" />
-    </list>
+    <list default="true" id="e2656ab4-c5cb-4461-a815-eca8ff6d82b5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -415,16 +401,15 @@
       <workItem from="1542857400554" duration="625000" />
       <workItem from="1542858220539" duration="6782000" />
       <workItem from="1542872734927" duration="6217000" />
-      <workItem from="1542938574314" duration="1767000" />
+      <workItem from="1542938574314" duration="2039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25342000" />
+    <option name="totallyTimeSpent" value="25614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -436,12 +421,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.124200426" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20212767" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20212767" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978722" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
